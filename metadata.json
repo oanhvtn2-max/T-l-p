@@ -1,0 +1,6 @@
+{
+  "name": "Tình huống GDCD — Hành Trình Tự Lập",
+  "description": "Ứng dụng câu chuyện tương tác môn Giáo dục công dân lớp 6–9 giúp học sinh THCS rèn luyện tính tự lập qua 10 tình huống thực tế.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
